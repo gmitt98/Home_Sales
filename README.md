@@ -8,6 +8,11 @@ Languages and technologies used:
 ## Repository contents
 
 This repo contains our Jupyter Notebook code (Home_Sales)
+The data used are accessed from a link to an S3 bucket
+
+## Purpose
+
+
 
 ## Results
 
